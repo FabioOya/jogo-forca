@@ -1,0 +1,30 @@
+.letra{
+
+    width: 30px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 5px;
+    display: none;
+
+
+}
+.letraJ{
+    width: 30px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 5px;
+}
+dvdisplay{
+    display: block;
+}
+#dvmsg{
+
+    font-size: 80px;
+    color: red;
+    font-family: 'Press Start 2P', cursive;
+
+
+}
+
